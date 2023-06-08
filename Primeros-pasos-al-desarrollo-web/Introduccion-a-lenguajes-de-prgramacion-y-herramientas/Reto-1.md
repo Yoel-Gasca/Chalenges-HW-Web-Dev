@@ -4,4 +4,4 @@ Compara algunos lenguajes de programación. ¿Cuáles son algunos de los rasgos 
 Evidencia 1 Reto 1
 Comparación entre JavaScript y Java
 
-image.png
+<img src="../img/Tabla-1.png" alt="" width="" height="">
