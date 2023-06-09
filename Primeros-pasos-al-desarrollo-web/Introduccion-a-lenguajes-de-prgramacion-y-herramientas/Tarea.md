@@ -1,6 +1,13 @@
 # Tarea
 Seleccionar 3 herramientas y explicar por qué un Desarrollador Web las debería usar, buscar una herramienta que pertenezca a esta categoría y compartir la documentación. No utilizar los ejemplos de herramientas brindados en la documentación de MDN.
 
+### Rúbrica
+
+Ejemplo | Adecuado | Necesita mejorar
+--- | --- | -- |
+| Explicar por qué el Desarrollador web usará la herramienta | Explicar cómo el desarrollador debería usar la herramienta| Por qué un desarrollador usaría la herramienta. |
+
+
 ## 1.- DevTools
 DevTools es un conjunto de herramientas de desarrollo web que aparece junto a una página web representada en el explorador. DevTools proporciona una manera eficaz de inspeccionar y depurar páginas web y aplicaciones web. Incluso puede editar archivos de origen y crear proyectos de sitio web, todo dentro del entorno de DevTools.
 Con DevTools, puede hacer lo siguiente:
