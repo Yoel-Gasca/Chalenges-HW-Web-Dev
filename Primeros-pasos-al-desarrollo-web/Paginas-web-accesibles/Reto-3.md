@@ -132,4 +132,6 @@ También los links que ya estaban se les arreglo las palabras de referencia para
 
 Por ulltimo se le agregaron links a las etiquetas que no tenían una redirección y también se creó un archivo más el cual muestra el ejemplo semántico de las tortugas marinas y un boton que redirecciona a más informacion sobre estos ejemplares del mundo animal.
 
+<img src="../img/Web2.png" alt="" width="" height=""><br/>
+
 Esta es la evidencia que corresponde al Reto 3 de la lección <a href="https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/1-getting-started-lessons/3-accessibility/translations/README.es.md">Creación de páginas web accesibles</a> del curso <a href="https://github.com/microsoft/Web-Dev-For-Beginners">WEB DEVELOPMENT FOR BEGINNERS</a> de Microsoft.
