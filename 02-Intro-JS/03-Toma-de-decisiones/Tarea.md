@@ -59,7 +59,7 @@ let allStudents = [
     // Verificar si el estudiante aprueba en el segundo sistema de calificación
     let system2Pass = student.every(grade => ['A', 'A-', 'B', 'B-', 'C', 'C-'].includes(grade));
     
-    // Si el estudiante aprueba en ambos sistemas, agregarlo a studentsWhoPass
+    // Los estudiantes aprueban en cualquiera de los sistemas, se agregaran a studentsWhoPass
     if (system1Pass && system2Pass) {
       studentsWhoPass.push(student);
     };
