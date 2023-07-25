@@ -31,3 +31,13 @@ En la siguiente imagen se puede observar un resultado aproximado de la media de 
 Tambien se ha realizado un <a href="./Docs/InformeGreenGreatClub.pdf">informe de lighthouse</a> el cual muestra estos resultados.
 
 ![Alt text](./img/image5.png)
+
+Como se puede observar el apartado de performance señala un resultado de 46 en su puntaje esto se debe a la carga lenta y algunos aspectos del diseño de la interfaz del sitio que se ven relflejados en el informe
+
+![Alt text](./img/image6.png)
+
+![Alt text](./img/image7.png)
+
+En la mayoria de los casos que se llega a utilizar este tipo de gestores de contenido el performance o rendimiento del sitio suele verce afectado ya que dependiendo todos los recursos que se tengan mas los complementos como los plugins que se usen para el funcionamiento del sitio siempre van a pesar o afectar dependiendo de sus caracteristicas.
+
+#### Esta es la evidencia que corresponde a la <a href="https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/5-browser-extension/3-background-tasks-and-performance/translations/assignment.es.md">tarea</a> de la lección <a href="https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/5-browser-extension/3-background-tasks-and-performance/translations/README.es.md">Proyecto de extensión del navegador, parte 3: Más información sobre el rendimiento y las tareas en segundo plano</a> del curso <a href="https://github.com/microsoft/Web-Dev-For-Beginners">WEB DEVELOPMENT FOR BEGINNERS</a> de Microsoft.
