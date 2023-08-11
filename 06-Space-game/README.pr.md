@@ -1,7 +1,7 @@
 # SpaceGame
 Destruye las naves alienígenas que se están acercando hacia la tierra.
 
-<strong><a href="https://github.com/Yoel-Gasca/BrowserExtension">Repocitorio del proyecto</a></strong>
+<strong><a href="https://github.com/Yoel-Gasca/SpaceGame">Repocitorio del proyecto</a></strong>
 
 <img src="https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/6-space-game/images/pewpew.gif">
 
