@@ -6,7 +6,5 @@ En este repositorio se muestran las evidencias de Tareas, Apuntes y/o Retos de c
 # WEB DEVELOPMENT FOR BEGINNERS
 En este curso se aprenden los fundamentos de JavaScript, CSS y HTML con una duracion aproximada de 12 semanas, presentado por Microsoft Cloud Advocates. Cada una de las 24 lecciones incluye cuestionarios previos y posteriores a la lección, instrucciones escritas detalladas, soluciones, tareas y mucho más. Con un enfoque de aprendizaje basado en proyectos, con un plan de estudios está diseñado para ayudar a desarrollar habilidades prácticas a través de la construcción práctica. Mejorar habilidades y optimizar la retención de conocimientos con la pedagogía eficaz basada en proyectos.
 
-![image](https://github.com/Yoel-Gasca/Chalenges-HW-Web-Dev/assets/83617933/8c1edce4-ab85-4799-819e-53b5c575a5b8)
- 
 ![image](https://github.com/Yoel-Gasca/Chalenges-HW-Web-Dev/assets/83617933/9e5044c2-2e6e-4345-8468-181197e08319)
-
+![image](https://github.com/Yoel-Gasca/Chalenges-HW-Web-Dev/assets/83617933/8c1edce4-ab85-4799-819e-53b5c575a5b8) 
