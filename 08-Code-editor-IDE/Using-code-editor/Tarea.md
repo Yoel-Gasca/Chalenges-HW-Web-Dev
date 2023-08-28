@@ -25,19 +25,19 @@ Después de esta tarea, aprenderá a:
 
 ## Pasos
 
-**Paso 1:** Create a new GitHub Repository and give it a name `my-resume`
+**Paso 1:** Crea un nuevo repocitorio en GitHub que lleve por nombre: `my-resume` o un nombre rererente a tu curriculum
 
 
-**Paso 2:** Crea un archivo `index.html` file en tu repositorio. Agregaremos al menos un archivo mientras aún esté en github.com porque no puede abrir un repositorio vacío en vscode.dev
+**Paso 2:** Crea un archivo `index.html` en tu repositorio. Agregaremos al menos un archivo mientras aún esté en github.com porque no puede abrir un repositorio vacío en vscode.dev
 
 Haga clic en el enlace `creating a new file` link, escriba el nombre `index.html` y seleccione el boton `Commit new file` 
 
 ![Alt text](./img/NewFileGH.png)
 
 
-**Paso 3:** Open [VSCode.dev](https://vscode.dev) and select the `Open Remote Repository` button
+**Paso 3:** Abra [VSCode.dev](https://vscode.dev) y seleccione el boton `Open Remote Repository`.
 
-Copy the url to the repository you just created for your resume site and paste it in the input box:
+Copie la URL al repositorio que acaba de crear para su sitio de currículum y péguela en el cuadro de entrada:
 
 _Reemplace `your-username` con su nombre de usuario de github_
 
@@ -45,7 +45,7 @@ _Reemplace `your-username` con su nombre de usuario de github_
 https://github.com/your-username/my-resume
 ```
 
-✅ Si tiene éxito, verá su proyecto y el archivo index.html abrirse en el editor de texto del navegador.
+✅ Si tiene éxito, verá su proyecto y el archivo index.html abrirse en el editor de texto.
 
 ![Alt text](./img/ProjectVSCode.png)
 
@@ -233,7 +233,7 @@ Esto es lo que verá en su pantalla después de instalar la extensión.
 
 ![Alt text](./img/CodeswingExtension.png)
 
-Si está satisfecho con los cambios que realizó, coloque el cursor sobre la Changescarpeta y haga clic en el +botón para organizar los cambios.
+Si está satisfecho con los cambios que realizó, coloque el cursor sobre la carpeta Changes y haga clic en el botón + para organizar los cambios.
 
 Escriba un mensaje de confirmación (una descripción del cambio que ha realizado en el proyecto) y confirme sus cambios haciendo clic en `check`. Una vez que haya terminado de trabajar en su proyecto, seleccione el ícono del menú de hamburguesa en la parte superior izquierda para regresar al repositorio en GitHub.
 
