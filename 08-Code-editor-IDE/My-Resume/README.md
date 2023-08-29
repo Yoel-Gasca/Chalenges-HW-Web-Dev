@@ -1,6 +1,6 @@
 # Mi Curriculum
 
-Este es mi <a href="">curriculum</a> en formato web
+<h3>Este es mi <a href="https://yoel-gasca.github.io/Chalenges-HW-Web-Dev//08-Code-editor-IDE/My-Resume/index.html">curriculum</a> en formato web</h3>
 
 ![Alt text](./img/image.png)
 ![Alt text](./img/image2.png)
